@@ -1,5 +1,11 @@
 import 'package:dart_frog/dart_frog.dart';
 
 Response onRequest(RequestContext context) {
-  return Response(body: 'This is a recommendation');
+  return Response.json(
+    body: {
+      'first': 'Nursing',
+      'second': 'Pharmacy',
+      'third': 'Medicine',
+    },
+  );
 }

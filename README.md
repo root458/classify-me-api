@@ -27,13 +27,13 @@ Please make sure to update tests as appropriate.
 
 ## Credits
 
-1. Hope Kagame - [GitHub]() & [LinkedIn]()
-2. Linda June - [GitHub]() & [LinkedIn]()
-3. Daisy Bochaberi - [GitHub]() & [LinkedIn]()
-4. Sera Maina - [GitHub]() & [LinkedIn]()
-5. Sidney - [GitHub]() & [LinkedIn]()
-6. Mbithe Nzomo - [GitHub]() & [LinkedIn]()
-7. Waithera Macharia - [GitHub]() & [LinkedIn]()
+1. Hope Kagame - [GitHub](https://github.com/root458) & [LinkedIn](https://www.linkedin.com/in/hope-kagame/)
+2. Linda June - [GitHub](https://github.com/JuneLindah) & [LinkedIn](https://www.linkedin.com/in/june-lindah-adhiambo-38a242219/)
+3. Daisy Bochaberi - [GitHub](https://github.com/BochaberiDaisy) & [LinkedIn](https://www.linkedin.com/in/bochaberi-daisy/)
+4. Sera Maina - [GitHub](https://github.com/Sheeqi) & [LinkedIn](https://www.linkedin.com/in/sera-maina-a87ba1168/)
+5. Sidney - [GitHub](https://github.com/princelySid) & [LinkedIn](https://www.linkedin.com/in/sidney-ochieng/)
+6. Mbithe Nzomo - [GitHub](https://github.com/mbithenzomo) & [LinkedIn](https://www.linkedin.com/in/mbithenzomo/)
+7. Waithira Macharia - [GitHub](https://github.com/Machariajane) & [LinkedIn](https://www.linkedin.com/in/waithira-macharia/)
 
 ## License
 

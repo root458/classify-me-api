@@ -5,7 +5,7 @@ This is the ClassifyMe API, which serves the clients on [this](https://classifym
 ## How to install and run the project
 1. Clone the repository using git clone 
 ```bash
-git clone https://github.com/root458/classify-me.git
+git clone https://github.com/root458/classify-me-api.git
 ```
 2. Ensure that Python is installed on your system. If not, follow the instructions [here](https://www.python.org/downloads/).
 3. Ensure that the Python libraries on requirements.txt are installed. If not, run the following command.

@@ -10,7 +10,7 @@ git clone https://github.com/root458/classify-me-api.git
 2. Ensure that Python is installed on your system. If not, follow the instructions [here](https://www.python.org/downloads/).
 3. Ensure that the Python libraries on requirements.txt are installed. If not, run the following command.
 ```bash
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 4. Navigate to the project directory. Run:
 ```bash

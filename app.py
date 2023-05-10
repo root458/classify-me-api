@@ -110,10 +110,8 @@ def get_course_recommendations(user_id, df, courses_catalogue):
 
     # Use the test() method of the KNNBaseline model to predict the job satisfaction rating for each of the filtered courses for the given user
     predictions = []
-    print('Showing predictions')
     for course_id in unrated_courses:
         prediction = knn_model.predict(uid=user_id, iid=course_id)
-        print(prediction)
         predictions.append(prediction)
 
     # Create a list of tuples of (course, predicted rating) for each course

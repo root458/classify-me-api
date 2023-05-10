@@ -9,7 +9,7 @@
     
 #     # Save DataFrame to CSV file
 #     df.to_csv(csv_filename, index=False)
-
+# Importing the relevant libraries and modules
 import pandas as pd
 import json
 import math
@@ -19,7 +19,7 @@ from surprise import dump
 from surprise import Reader, Dataset
 import os
 
-# Load 
+# Defining function to convert the json file to a dataframe
 def json_to_df(json_data):
     # load JSON data
     data = json.loads(json.dumps(json_data))

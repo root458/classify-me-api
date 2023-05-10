@@ -78,7 +78,7 @@ def get_course_recommendations1(user_id, df):
 
 
 
-def get_course_recommendations(user_id, df, course_catalogue):
+def get_course_recommendations(user_id, df, courses_catalogue):
     # Load the trained KNNBaseline model from a file using pickle
     with open('model/KNNBaseline_pickled_model', 'rb') as file:
         knn_model = pickle.load(file)
@@ -157,9 +157,9 @@ def predict():
     encoder.fit(df)
 
     # Load dataframe
-    course_catalogue = pd.read_csv('datasets/course_catalogue.csv')
+    courses_catalogue = pd.read_csv('datasets/courses_catalogue.csv')
 
-    predictions = get_course_recommendations('user_120', df, course_catalogue)
+    predictions = get_course_recommendations('user_120', df, courses_catalogue)
 
     # print(predictions)
     return jsonify({'recommended_courses': predictions})
